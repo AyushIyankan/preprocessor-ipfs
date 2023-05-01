@@ -1,0 +1,15 @@
+{
+  "id": 2,
+  "name": "Doge NFT #2",
+  "description": "Cool Crypto Doge NFT Collection. Mint and collect the funkiest NFTs around",
+  "price": 1,
+  "image": "https://ipfs.io/ipfs/QmYT9jFFMFgURUZu6QkXnjpmTSTQj2rCGqH65GvZdnC9222.webp",
+  "demand": "8",
+  "attributes": [
+    { "trait_type": "environment", "value": "Sky" },
+    { "trait_type": "weapons", "value": "Stick" },
+    { "trait_type": "rarity", "value": 6, "max_value": 10 },
+    { "display_type": "date", "trait_type": "Created", "value": 1682966294419 },
+    { "display_type": "number", "trait_type": "generation", "value": 1 }
+  ]
+}
